@@ -1,0 +1,23 @@
+{
+  "name": "frontend-developer-challenge",
+  "version": "1.0.0",
+  "description": "Desafio para futuros desenvolvedores da Linx Impulse",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bberel/frontend-developer-challenge.git"
+  },
+  "keywords": [
+    "front-end",
+    "linx"
+  ],
+  "author": "bberel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bberel/frontend-developer-challenge/issues"
+  },
+  "homepage": "https://github.com/bberel/frontend-developer-challenge#readme"
+}
