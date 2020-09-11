@@ -4,7 +4,8 @@
   "description": "Desafio para futuros desenvolvedores da Linx Impulse",
   "main": "index.js",
   "scripts": {
-    "test": ""
+    "test": "",
+    "sass:watch": "sass --watch src/assets/vendor/sass:src/assets/styles"
   },
   "repository": {
     "type": "git",
