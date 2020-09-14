@@ -2,7 +2,7 @@
   "name": "frontend-developer-challenge",
   "version": "1.0.0",
   "description": "Desafio para futuros desenvolvedores da Linx Impulse",
-  "main": "index.js",
+  "main": "src/index.html",
   "scripts": {
     "test": "",
     "sass:watch": "sass --watch src/assets/vendor/sass:src/assets/styles"
